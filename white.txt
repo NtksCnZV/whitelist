@@ -29,3 +29,4 @@ cloclo50.datacloudmail.ru
 cloclo50.cloud.mail.ru
 k.clarity.ms
 www.rapid7.com
+kali.download
