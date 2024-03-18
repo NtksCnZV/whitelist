@@ -30,3 +30,5 @@ cloclo50.cloud.mail.ru
 k.clarity.ms
 www.rapid7.com
 kali.download
+decoded.avast.io
+rpc.skcrtxr.com/cf
