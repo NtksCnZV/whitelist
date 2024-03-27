@@ -32,3 +32,5 @@ www.rapid7.com
 kali.download
 decoded.avast.io
 rpc.skcrtxr.com/cf
+static.bumlam.com
+st-eu.hybrid.ai
