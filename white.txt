@@ -34,3 +34,4 @@ decoded.avast.io
 rpc.skcrtxr.com/cf
 static.bumlam.com
 st-eu.hybrid.ai
+www.zscaler.com
