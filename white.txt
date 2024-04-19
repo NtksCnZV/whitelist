@@ -38,3 +38,4 @@ www.zscaler.com
 downloader.disk.yandex.ru
 download3.operacdn.com
 t.co
+/nel
