@@ -53,3 +53,5 @@ ocsp.digicert.cn
 learn.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 testmycdn.azureedge.net
+/ping
+/checkin
