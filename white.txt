@@ -55,3 +55,4 @@ tlu.dl.delivery.mp.microsoft.com
 testmycdn.azureedge.net
 /ping
 /checkin
+nissanenote.ru
