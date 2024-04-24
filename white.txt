@@ -48,3 +48,6 @@ aadcdn.msauth.net
 canonical-lgw01.cdn.snapcraftcontent.com
 m.media-amazon.com
 csp.withgoogle.com
+ocsp.trust-provider.cn
+ocsp.digicert.cn
+learn.microsoft.com
