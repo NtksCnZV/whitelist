@@ -51,3 +51,5 @@ csp.withgoogle.com
 ocsp.trust-provider.cn
 ocsp.digicert.cn
 learn.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+testmycdn.azureedge.net
