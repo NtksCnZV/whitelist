@@ -57,3 +57,4 @@ testmycdn.azureedge.net
 /checkin
 nissanenote.ru
 87.240.129.133
+clck.yandex.ru
