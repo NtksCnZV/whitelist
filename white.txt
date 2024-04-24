@@ -56,3 +56,4 @@ testmycdn.azureedge.net
 /ping
 /checkin
 nissanenote.ru
+87.240.129.133
