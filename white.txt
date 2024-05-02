@@ -58,3 +58,5 @@ testmycdn.azureedge.net
 nissanenote.ru
 87.240.129.133
 clck.yandex.ru
+prod-web.wondershare.cc    
+consentmanager.mgr.consensu.org
