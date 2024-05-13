@@ -75,3 +75,6 @@ www.kody.su
 dht.aelitis.com
 bs-meta.yandex.ru
 /forum/login.php
+95.163.53.18
+makc.ru
+i.redd.it
