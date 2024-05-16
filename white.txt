@@ -93,3 +93,11 @@ api.msetup.pro
 armatech.group
 /support/
 files.vgtimes.ru
+secure.leadforensics.com
+www.linkconnector.com
+www.upsellit.com
+mpsnare.iesnare.com
+adlik.akavita.com
+gmai.com
+d.p-dns.info
+thermex-boiler.ru
