@@ -103,3 +103,9 @@ d.p-dns.info
 thermex-boiler.ru
 ns-1249.awsdns-28.org
 /css
+static.hsstatic.net
+ipwho.is
+architecture-and-design.ru
+stats.wp.com
+pixel.wp.com
+/pixel.gif
