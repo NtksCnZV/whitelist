@@ -109,3 +109,5 @@ architecture-and-design.ru
 stats.wp.com
 pixel.wp.com
 /pixel.gif
+api.twitter.com
+/js/
