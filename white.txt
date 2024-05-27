@@ -112,3 +112,6 @@ pixel.wp.com
 api.twitter.com
 /js/
 135.196.251.205.in-addr.arpa
+offiks.ru
+95.163.51.49
+95.163.51.54
