@@ -129,3 +129,6 @@ ascii-generator.site
 www.dgl.ru
 wifigid.ru
 online-phuket.ru
+31.31.196.196
+188.114.96.8
+95.163.51.42
