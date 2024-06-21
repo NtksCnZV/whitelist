@@ -165,3 +165,7 @@ abp.smartadcheck.de
 go.affec.tv
 ayelectro.kz
 tdesant.ru
+/upload/
+/start
+www.air-gaz.ru
+device.maxmind.com
