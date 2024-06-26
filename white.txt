@@ -174,3 +174,4 @@ cdn-ru.bitrix24.ru
 www.rassvet-svaroga.ru
 cdn.bitrix24.ru
 megarybak.ru
+ssd-spb.ru
