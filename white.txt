@@ -205,3 +205,4 @@ pcookie.taobao.com
 /user/
 thegirl.ru
 safebrowsing.google.com
+fonts.bitrix24.ru
