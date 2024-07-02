@@ -210,3 +210,6 @@ fonts.bitrix24.ru
 95.163.249.170
 www.binarydefense.com
 /export.php
+thoukik.ru
+geekhacker.ru
+weatherwidget.io
