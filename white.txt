@@ -225,3 +225,8 @@ weatherwidget.io
 87.236.16.205
 any.run
 app.any.run
+intel.com
+youtube.com
+sb-ssl.google.com
+lh5.googleusercontent.com
+any.run
