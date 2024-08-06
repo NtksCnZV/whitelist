@@ -240,3 +240,7 @@ rt-solar.ru
 217.107.219.122
 31.31.196.221
 172.67.191.40
+amazon.com
+www.dwin1.com
+js.maxmind.com
+www.binarydefense.com
