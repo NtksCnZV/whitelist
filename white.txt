@@ -248,3 +248,4 @@ tmkos.ru
 fast.fonts.net
 amazon.com
 /k/
+isc.sans.edu
