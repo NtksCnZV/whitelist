@@ -249,3 +249,6 @@ fast.fonts.net
 amazon.com
 /k/
 isc.sans.edu
+js.ru.redtram.com
+geoip.businessinsider.com
+img.sedoparking.com
