@@ -264,3 +264,5 @@ ra-in-f26.1e100.net
 accounts.youtube.com
 /async/ddljson
 /async/newtab_ogb
+chromewebstore.google.com
+/css/style.css
