@@ -266,3 +266,4 @@ accounts.youtube.com
 /async/newtab_ogb
 chromewebstore.google.com
 /css/style.css
+xdr.facct.ru
