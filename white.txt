@@ -275,3 +275,7 @@ blog.virustotal.com
 feeds.trendmicro.com
 www.zerodayinitiative.com
 vulncheck.com
+blog.cloudflare.com
+www.huntress.com
+research.checkpoint.com
+news.sophos.com
