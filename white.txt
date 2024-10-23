@@ -279,3 +279,4 @@ blog.cloudflare.com
 www.huntress.com
 research.checkpoint.com
 news.sophos.com
+fonts.cdnfonts.com
