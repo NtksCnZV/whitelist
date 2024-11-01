@@ -280,3 +280,4 @@ www.huntress.com
 research.checkpoint.com
 news.sophos.com
 fonts.cdnfonts.com
+/js/bootstrap.min.js
